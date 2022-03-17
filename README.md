@@ -1,6 +1,6 @@
-# AOS - Stop Watch
+# StopWatch
 
-This project was aimed to make Stop Watch with Seven Segment Display
+This project was aimed to make a StopWatch with Seven Segment Display
 
 ## Technical Use & Resoucres
 
